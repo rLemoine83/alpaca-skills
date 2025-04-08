@@ -5,3 +5,4 @@ description = "Agent skills for Alpaca's Trading API and Broker API: drop-in SKI
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# handle the edge case from the last release
